@@ -10,4 +10,4 @@ Braum - Poro Barber by [Member='QQQ'] and [Member='AWA'] v1.01
 	c. Fixed a bug that spammed an error if AutoIgnite was enabled and prevented to cast it on an enemy
 -- 1.02 --
 - Securityupdate:
-	a. Changed the autodownloadlibrarys to Hellsing's safe ones
+	a. Changed the autodownloadlibrarys to Hellsing's safe onesa
